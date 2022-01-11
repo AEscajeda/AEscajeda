@@ -25,7 +25,7 @@ The tech stack used to build this side was:
 * Heroku to host the site.
 You can se the demo on the next [link](https://eccomerce-demo.herokuapp.com/#/).
 
-<a href='https://eccomerce-demo.herokuapp.com/#/'><img src='https://raw.githubusercontent.com/AEscajeda/AEscajeda/main/e-commerce%20-%20Google%20Chrome%202022-01-11%2013-17-43%20(1).gif' align="right" width='400'/></a>
+<img src='https://raw.githubusercontent.com/AEscajeda/AEscajeda/main/e-commerce%20-%20Google%20Chrome%202022-01-11%2013-17-43%20(1).gif' align="right" width='400'/>
 
 
 
