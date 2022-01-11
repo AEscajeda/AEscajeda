@@ -12,6 +12,8 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 * ☁ Azure
 
 ## My Work
-<img src='https://raw.githubusercontent.com/AEscajeda/AEscajeda/main/e-commerce%20-%20Google%20Chrome%202022-01-11%2013-17-43%20(1).gif' width='256'>
+<img src='https://raw.githubusercontent.com/AEscajeda/AEscajeda/main/e-commerce%20-%20Google%20Chrome%202022-01-11%2013-17-43%20(1).gif' width='520'>
+Ecommerce Website.
+I Here, people can register and look for his favorite products.
 
 - 🌱 I’m currently learning AWS 
