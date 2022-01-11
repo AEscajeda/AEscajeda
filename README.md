@@ -13,10 +13,11 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 ## My Work
 
-<div class="pull-left"><img style="float: right;" src='https://raw.githubusercontent.com/AEscajeda/AEscajeda/main/e-commerce%20-%20Google%20Chrome%202022-01-11%2013-17-43%20(1).gif' /></div>
+Ecommerce Website.
+In this eccomerce website people can register and look for his favorite products.
+<img src='https://raw.githubusercontent.com/AEscajeda/AEscajeda/main/e-commerce%20-%20Google%20Chrome%202022-01-11%2013-17-43%20(1).gif' align="right" />
 
-<div class="text-justify"><p>Ecommerce Website.
-I Here, people can register and look for his favorite products.</p></div>
+
 
 Ecommerce Website.
 I Here, people can register and look for his favorite products.
