@@ -25,7 +25,7 @@ The tech stack used to build this side was:
 - SQLite for data persistance (only for demo purposes).
 - AWS S3 for static files storage.
 - Heroku to host the site.
-You can se the demo on the next <a href='https://devsearch-demo.herokuapp.com/' target='_blank'>link<a/>.
+You can se the demo on the next <a href='https://devsearch-demo.herokuapp.com/' target="_blank">link<a/>.
 ---
 
 ### DevSearch
