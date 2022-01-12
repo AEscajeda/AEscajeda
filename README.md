@@ -39,12 +39,12 @@ The tech stack used to build this side was:
 - Heroku to host the site.
 You can se the demo on the next [link](https://devsearch-demo.herokuapp.com/).
 
-
-
 ---
-
-
 
 ## Currently Learning
 - ☁ AWS 
 - 💾 MongoDB
+
+---
+## Contact me!
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/AEscajeda)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/antonioescajeda//)  
