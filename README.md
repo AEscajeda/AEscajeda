@@ -47,4 +47,4 @@ You can se the demo on the next [link](https://devsearch-demo.herokuapp.com/).
 
 ---
 ## Contact me!
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AEscajeda)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/antonioescajeda/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mail.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/antonioescajeda/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AEscajeda)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/antonioescajeda/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/antonioescajeda/)  
