@@ -1,7 +1,7 @@
 ![Software Developer](https://github.com/AEscajeda/AEscajeda/blob/main/header%20linkedin.jfif?raw=true)
 
 # Antonio Escajeda
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+Currently a Senior Software Engineering Student, I have been focusing on web development the past years. During my colleges' years I have developed skills that have allowed me to contribute actively in software projects in both coding and managing the software development process using methodologies such as TSP, PSP and SCRUM.
 
 ## Tech Skills
 * 🐍 Python
