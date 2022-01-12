@@ -25,10 +25,25 @@ The tech stack used to build this side was:
 - SQLite for data persistance (only for demo purposes).
 - AWS S3 for static files storage.
 - Heroku to host the site.
-You can se the demo on the next [link](https://eccomerce-demo.herokuapp.com/#/).
+You can se the demo on the next <a href='https://devsearch-demo.herokuapp.com/' target='_blank'>link<a/>.
+---
+
+### DevSearch
+
+[DevSearch](https://devsearch-demo.herokuapp.com/) is a portfolio website where developers, designers and tech professionals around the world can show off his skills and work. The users can create a profile, link to their social media, add projects to demonstrate skills and leave reviews of other users' projects
+The tech stack used to build this side was:
+- Django.
+- AWS DBS for data persistance (PostgreSQL).
+- AWS S3 for static files storage.
+- Heroku to host the site.
+You can se the demo on the next [link](https://devsearch-demo.herokuapp.com/).
+
+<img src='https://raw.githubusercontent.com/AEscajeda/AEscajeda/main/DevSearch%20-%20Connect%20with%20Developers!%20-%20Google%20Chrome%202022-01-11%2017-37-39.gif' align="left" width='400'>
+
 ---
 
 
 
-
-- 🌱 I’m currently learning AWS 
+## Currently Learning
+- ☁ AWS 
+- 💾 MongoDB
