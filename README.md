@@ -22,8 +22,8 @@ The tech stack used to build this side was:
 - Django Rest Framework to build APIs.
 - JWT for the authentication proccess.
 - React for the UI.
-- SQLite for data persistance (only for demo purposes).
-- AWS S3 for static files storage.
+- SQLite for data persistence (only for demo purposes).
+- AWS S3 for static file storage.
 - Heroku to host the site.
 You can se the demo on the next [link](https://eccomerce-demo.herokuapp.com/#/).
 ---
@@ -34,8 +34,8 @@ You can se the demo on the next [link](https://eccomerce-demo.herokuapp.com/#/).
 [DevSearch](https://devsearch-demo.herokuapp.com/) is a portfolio website where developers, designers and tech professionals around the world can show off his skills and work. The users can create a profile, link to their social media, add projects to demonstrate skills and leave reviews of other users' projects
 The tech stack used to build this side was:
 - Django.
-- AWS DBS for data persistance (PostgreSQL).
-- AWS S3 for static files storage.
+- AWS DBS for data persistence (PostgreSQL).
+- AWS S3 for static file storage.
 - Heroku to host the site.
 You can se the demo on the next [link](https://devsearch-demo.herokuapp.com/).
 
@@ -47,4 +47,4 @@ You can se the demo on the next [link](https://devsearch-demo.herokuapp.com/).
 
 ---
 ## Contact me!
-[<img src='https://raw.githubusercontent.com/AEscajeda/AEscajeda/main/github.png' alt='github' height='40'>](https://github.com/AEscajeda)  [<img src='https://raw.githubusercontent.com/AEscajeda/AEscajeda/main/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/antonioescajeda/)  <a href="mailto:antonio.escajeda1@outlook.com"><img src='https://raw.githubusercontent.com/AEscajeda/AEscajeda/main/outlook.png' alt='linkedin' height='40'><a/>  
+[<img src='https://raw.githubusercontent.com/AEscajeda/AEscajeda/main/github.png' alt='github' height='40'>](https://github.com/AEscajeda)              [<img src='https://raw.githubusercontent.com/AEscajeda/AEscajeda/main/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/antonioescajeda/)              <a href="mailto:antonio.escajeda1@outlook.com"><img src='https://raw.githubusercontent.com/AEscajeda/AEscajeda/main/outlook.png' alt='linkedin' height='40'><a/>  
