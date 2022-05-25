@@ -18,7 +18,7 @@ Currently a Senior Software Engineering Student, I have been focusing on web dev
 
 At this [eccomerce website](https://eccomerce-demo.herokuapp.com/#/) people can register and look for their favorite products. The site has a customer view, where he is able to make purchases, manage his personal info and view the history of purchases on the site. On the other hand, the admins' site allows the staff to manage stock, users and orders.
 PayPal Payment Platform enables the customer to have a secure purchase experience.
-The tech stack used to build this side was:
+The tech stack used to build this site was:
 - Django Rest Framework to build APIs.
 - JWT for the authentication proccess.
 - React for the UI.
@@ -32,7 +32,7 @@ You can see the demo on the next [link](https://eccomerce-demo.herokuapp.com/#/)
 <img src='https://raw.githubusercontent.com/AEscajeda/AEscajeda/main/DevSearch%20-%20Connect%20with%20Developers!%20-%20Google%20Chrome%202022-01-11%2017-37-39.gif' align="left" width='400'>
 
 [DevSearch](https://devsearch-demo.herokuapp.com/) is a portfolio website where developers, designers and tech professionals around the world can show off his skills and work. The users can create a profile, link to their social media, add projects to demonstrate skills and leave reviews of other users' projects
-The tech stack used to build this side was:
+The tech stack used to build this site was:
 - Django.
 - AWS DBS for data persistence (PostgreSQL).
 - AWS S3 for static file storage.
